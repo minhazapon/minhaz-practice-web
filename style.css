@@ -1,0 +1,175 @@
+
+
+nav{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+    background-color: rgb(190, 229, 245);
+    padding-left: 50px;
+
+
+}
+
+
+
+nav > ul{
+
+        display: flex;
+        align-items: center;
+
+
+}
+
+
+nav li{
+
+        list-style: none;
+        margin: 50px;
+        font-size: 20px;
+
+
+}
+
+
+nav li a {
+          text-decoration: none;
+
+
+}
+
+
+.in{
+
+    font-size: 30px;
+    font-style: oblique;
+
+
+}
+
+
+.ins{
+
+    color: blueviolet;
+
+
+}
+
+
+
+.start{
+
+      margin-top: 50px;
+
+
+}
+
+
+.st{
+       color: blueviolet;
+
+
+}
+
+.para{
+         color: rgb(77, 77, 77);
+
+
+}
+
+
+.but{
+
+      color: aliceblue;
+      font-size: 20px;
+      background-color: blueviolet;
+      border-radius: 20px;
+      border: 0px;
+
+
+}
+
+
+.fujicamera{
+
+   border-radius: 400px;
+   border: 2px solid rgb(179, 155, 179);
+   margin: 50px;
+
+}
+
+
+.start1{
+        display: flex;
+        gap: 50px;
+        align-items: center;
+        justify-content: center;
+
+
+
+}
+
+
+.company{
+
+     margin-top: 50px;
+     display: flex;
+     gap: 50px;
+     align-items: center;
+     justify-content: center ;
+
+}
+
+.collection{
+
+         margin-top: 50px;
+
+
+}
+
+
+
+.pc{
+
+   color: blueviolet;
+   font-size: 40px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+
+
+}
+
+.items{
+
+        margin-top: 50px;
+
+
+}
+
+
+.font{
+      font-size: 30px;
+
+
+}
+
+.i1{
+        display: flex;
+        gap: 30px;
+        justify-content: center;
+        align-items: center;
+       
+
+
+}
+
+
+.i2{
+     background-color: skyblue;
+     text-align: center;
+
+
+}
