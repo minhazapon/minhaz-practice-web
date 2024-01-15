@@ -319,3 +319,153 @@ nav li a {
 
 
 
+
+
+
+
+
+/* responsive sector */
+
+
+@media screen and (max-width: 576px) {
+      
+   .head{
+       flex-direction: column;
+
+
+   }
+
+
+   nav{
+
+       flex-direction: column;
+
+   }
+
+   nav > ul{
+
+       flex-direction: column;
+
+   }
+
+
+
+   .start1{
+
+       flex-direction: column;
+
+   }
+
+
+   .hr{
+      
+     flex-direction: column;
+
+   }
+
+
+   .company{
+
+       flex-direction: column;
+
+
+   }
+
+
+   .collection{
+      flex-direction: column;
+
+   }
+
+
+   .items{
+
+         flex-direction: column;
+
+   }
+
+   .i1{
+
+      flex-direction: column;
+
+
+   }
+
+
+   .dlp{
+
+      flex-direction: column;
+
+
+   }
+
+
+   .vga{
+
+      flex-direction: column;
+
+
+   }
+
+
+   .product{
+
+        flex-direction: column;
+
+
+   }
+
+
+   .fp{
+
+          flex-direction: column;
+
+   }
+
+
+   .fp2{
+
+      flex-direction: column;
+
+      margin-left: 50px;
+
+   }
+
+
+
+   .foot{
+
+
+        flex-direction: column;
+
+   }
+
+
+   .fo{
+
+        flex-direction: column;
+
+
+   }
+
+
+   .social{
+
+        flex-direction: column;
+
+
+   }
+
+
+
+
+
+
+
+
+
+}
+
+
+
+
